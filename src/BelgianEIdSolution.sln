@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BelgianIdentityCardReader", "BelgianIdentityCardReader\BelgianIdentityCardReader.vbproj", "{FA63506E-6256-42DC-9DC4-3E8C479A2972}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "eIdReaderApplication", "eIdReaderApplication\eIdReaderApplication.vbproj", "{959FFDC0-BB03-4403-9A3A-A1C8AFCCC559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA63506E-6256-42DC-9DC4-3E8C479A2972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA63506E-6256-42DC-9DC4-3E8C479A2972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA63506E-6256-42DC-9DC4-3E8C479A2972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA63506E-6256-42DC-9DC4-3E8C479A2972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959FFDC0-BB03-4403-9A3A-A1C8AFCCC559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959FFDC0-BB03-4403-9A3A-A1C8AFCCC559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959FFDC0-BB03-4403-9A3A-A1C8AFCCC559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959FFDC0-BB03-4403-9A3A-A1C8AFCCC559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
